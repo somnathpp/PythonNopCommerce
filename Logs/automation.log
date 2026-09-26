@@ -1,0 +1,14 @@
+26/09/2026 05:59:27 AM INFO *********** Test_001_Login Started **********
+26/09/2026 05:59:27 AM INFO *********** Verifying homePageTitle **********
+26/09/2026 05:59:27 AM INFO *********** homePageTitle Test is Passed **********
+26/09/2026 05:59:31 AM INFO *********** Verifying LoginFunctionality **********
+26/09/2026 05:59:34 AM INFO *********** Login Functionality Test is Passed **********
+26/09/2026 05:59:48 AM INFO *********** Test_002_DDT_Login **********
+26/09/2026 05:59:48 AM INFO *********** Verifying Login DDT test **********
+26/09/2026 05:59:52 AM INFO ***********   Passed **********
+26/09/2026 05:59:55 AM INFO ***********  Passed **********
+26/09/2026 05:59:58 AM INFO ***********  Passed **********
+26/09/2026 06:00:01 AM INFO ***********  Passed **********
+26/09/2026 06:00:01 AM INFO *********** test_login_ddt is Passed **********
+26/09/2026 06:00:01 AM INFO *********** End Of Login DDT Test**********
+26/09/2026 06:00:01 AM INFO *********** Completed Test_002_DDT_Login **********
