@@ -12,3 +12,29 @@
 26/09/2026 06:00:01 AM INFO *********** test_login_ddt is Passed **********
 26/09/2026 06:00:01 AM INFO *********** End Of Login DDT Test**********
 26/09/2026 06:00:01 AM INFO *********** Completed Test_002_DDT_Login **********
+26/09/2026 09:40:12 AM WARNING Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+26/09/2026 09:40:12 AM INFO *********** Test_001_Login Started **********
+26/09/2026 09:40:12 AM INFO *********** Verifying homePageTitle **********
+26/09/2026 09:40:13 AM INFO *********** homePageTitle Test is Passed **********
+26/09/2026 09:40:16 AM INFO *********** Verifying LoginFunctionality **********
+26/09/2026 09:40:20 AM INFO *********** Login Functionality Test is Passed **********
+02/10/2026 01:16:09 PM INFO *********** Test_001_Login Started **********
+02/10/2026 01:16:09 PM INFO *********** Verifying homePageTitle **********
+02/10/2026 01:16:10 PM INFO *********** homePageTitle Test is Passed **********
+02/10/2026 01:16:13 PM INFO *********** Verifying LoginFunctionality **********
+02/10/2026 01:16:16 PM INFO *********** Login Functionality Test is Passed **********
+02/10/2026 01:16:43 PM INFO *********** Test_001_Login Started **********
+02/10/2026 01:16:43 PM INFO *********** Verifying homePageTitle **********
+02/10/2026 01:16:43 PM INFO *********** homePageTitle Test is Passed **********
+02/10/2026 01:16:46 PM INFO *********** Verifying LoginFunctionality **********
+02/10/2026 01:16:50 PM INFO *********** Login Functionality Test is Passed **********
+02/10/2026 01:34:57 PM INFO *********** Test_001_Login Started **********
+02/10/2026 01:34:57 PM INFO *********** Verifying homePageTitle **********
+02/10/2026 01:34:57 PM INFO *********** homePageTitle Test is Passed **********
+02/10/2026 01:35:00 PM INFO *********** Verifying LoginFunctionality **********
+02/10/2026 01:35:04 PM INFO *********** Login Functionality Test is Passed **********
+02/10/2026 02:09:39 PM INFO *********** Test_001_Login Started **********
+02/10/2026 02:09:39 PM INFO *********** Verifying homePageTitle **********
+02/10/2026 02:09:39 PM INFO *********** homePageTitle Test is Passed **********
+02/10/2026 02:09:42 PM INFO *********** Verifying LoginFunctionality **********
+02/10/2026 02:09:46 PM INFO *********** Login Functionality Test is Passed **********

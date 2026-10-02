@@ -1,11 +1,9 @@
-
-
 @echo off
 
-cd /d E:\Projects\opcommerce
+cd /d "%~dp0"
 
 call .venv\Scripts\activate
 
-pytest -v -s -m sanity --html=Reports\report.html TestCases/  
+python -m pytest -v -s TestCases/test_login.py
 
 pause

@@ -6,7 +6,8 @@ from Utilities.readProperties import config
 
 
 @pytest.fixture()
-def setup(browser):
+def setup(request):
+    browser=request.config.getoption('--browser').lower()
     if browser=="edge":
         driver=webdriver.Edge()
         print('launching edge browser')
@@ -23,9 +24,7 @@ def setup(browser):
     driver.quit()
 def pytest_addoption(parser):
     parser.addoption('--browser',action='store',default='edge')
-@pytest.fixture()
-def browser(request):
-    return request.config.getoption('--browser')
+
 #################  pytest html report #############
 #it is hook for adding environment info to html report
 @pytest.hookimpl(tryfirst=True)
@@ -35,4 +34,5 @@ def pytest_metadata(metadata):
         metadata['Tester Name']='Somnath'
         metadata.pop('JAVA_HOME', None)
         metadata.pop('Plugins', None)
+
 
